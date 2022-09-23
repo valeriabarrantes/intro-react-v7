@@ -1,10 +1,11 @@
-import { Component, lazy } from "react";
+import { Component } from "react";
 import { useParams } from "react-router-dom";
 import Carousel from "./Carousel";
 import ErrorBoundary from "./ErrorBoundary";
 import ThemeContext from "./ThemeContext";
+import Modal from "./Modal";
 
-const Modal = lazy(() => import("./Modal"));
+// const Modal = lazy(() => import("./Modal"));
 
 class Details extends Component {
   // constructor(props) {
