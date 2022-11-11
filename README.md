@@ -1,4 +1,4 @@
-Complete Intro to React v7 & Intermediate React v4
+# Complete Intro to React v7 & Intermediate React v4
 
 Project for personal training.
 
